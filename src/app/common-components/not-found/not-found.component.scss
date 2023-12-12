@@ -1,0 +1,24 @@
+/* not-found.component.css */
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  color: #2196f3; /* Material Design blue color */
+}
+
+p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 20px;
+}

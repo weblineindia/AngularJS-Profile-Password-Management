@@ -1,0 +1,14 @@
+{
+  "message": "Login Successful",
+  "code" : 200,
+  "data": [
+    {
+      "email": "test@test.com",
+      "password": "Abcd@1234"
+    },
+    {
+      "email": "test1@test.com",
+      "password": "Abcd@1234"
+    }
+  ]
+}

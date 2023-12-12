@@ -1,0 +1,12 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.mat-toolbar {
+  background-color: #87CEEB; /* Sky Blue color */
+  color: white; /* Text color for the toolbar */
+}
+
+.mat-toolbar button.active {
+  background-color: #4682b4; /* Adjust the color for the active state */
+}
